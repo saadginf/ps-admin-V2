@@ -10,3 +10,8 @@ h5,
 h6 {
   font-family: "Crimson Text", serif;
 }
+.principal {
+  font-size: 90px;
+  height: 100%;
+  text-align: center;
+}
